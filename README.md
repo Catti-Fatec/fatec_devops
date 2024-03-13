@@ -2,7 +2,7 @@
 
 ## subtitulo
 
-print(12/03)
+print(descendo o commit para o remoto)
 
 Eu quando testo
 
