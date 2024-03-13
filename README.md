@@ -2,6 +2,8 @@
 
 ## subtitulo
 
+print(12/03)
+
 Eu quando testo
 
 Eu sabo muito, nossa como eu sabo
